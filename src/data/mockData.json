@@ -1,0 +1,166 @@
+{
+  "editionDate": "2026-03-14",
+  "theme": "The Digital Mirage",
+  "cartoon": {
+    "url": "/assets/cartoons/daily-sketch-march-14.svg",
+    "alt_en": "A minimalist B&W sketch of a man trying to pay a digital tax on a stone tablet.",
+    "alt_te": "డిజిటల్ పన్ను కట్టడానికి రాతి పలకపై ప్రయత్నిస్తున్న వ్యక్తి బి&డబ్ల్యు స్కెచ్."
+  },
+  "articles": [
+    {
+      "id": "prithvi-001",
+      "element": "Prithvi",
+      "category": { "en": "Infrastructure", "te": "ఇన్ఫ్రాస్ట్రక్చర్" },
+      "tone": "Sarcastic",
+      "content": {
+        "en": {
+          "headline": "New flyover opens: Third time's the charm, or the third flyover to the same junction",
+          "tldr": [
+            "Another flyover has been inaugurated while the one from 2022 is still missing its last ramp—consistency is key.",
+            "The 4.2 km stretch aims to ease traffic at the Kukatpally junction; completion of the previous project is TBD.",
+            "Civic: Expect diversions on the old route for the next 6 months. Plan your commute via traffic police updates."
+          ],
+          "source": "https://example-news.com/flyover"
+        },
+        "te": {
+          "headline": "కొత్త ఫ్లైఓవర్ ప్రారంభం: మూడవసారి అదృష్టం, లేక అదే జంక్షన్‌కి మూడవ ఫ్లైఓవర్",
+          "tldr": [
+            "మరో ఫ్లైఓవర్ ప్రారంభమైంది, 2022 నాటిది ఇంకా చివరి రాంప్ లేకుండానే ఉంది—స్థిరత్వం ముఖ్యం.",
+            "4.2 కి.మీ. స్ట్రెచ్ కుకట్పల్లి జంక్షన్ ట్రాఫిక్ తగ్గించాలని లక్ష్యం; మునుపటి ప్రాజెక్ట్ పూర్తి తేదీ టిబిడి.",
+            "ప్రజా: వచ్చే 6 నెలల పాటు పాత రూట్‌లో డైవర్షన్లు ఉంటాయి. ట్రాఫిక్ పోలీస్ అప్‌డేట్లతో ప్రయాణం ప్లాన్ చేయండి."
+          ],
+          "source": "https://example-news.com/te/flyover"
+        }
+      },
+      "civicStat": "72% roads motorable in municipal limits",
+      "popCultureRef": ""
+    },
+    {
+      "id": "jala-001",
+      "element": "Jala",
+      "category": { "en": "Water & Health", "te": "నీరు మరియు ఆరోగ్యం" },
+      "tone": "Witty",
+      "content": {
+        "en": {
+          "headline": "Summer water schedule released: Your tanker's ETA is 'sometime this week'",
+          "tldr": [
+            "The new roster promises 'equitable distribution'—same as last year, which meant Monday for some and Friday for others.",
+            "GHMC and HMWSSB have published zone-wise timings; groundwater levels are below average in 12 mandals.",
+            "Action: Register for SMS alerts on the citizen portal. Store at least 2 days' water during peak summer."
+          ],
+          "source": "https://example-news.com/water-schedule"
+        },
+        "te": {
+          "headline": "వేసవి నీటి షెడ్యూల్ విడుదల: మీ ట్యాంకర్ ETA 'ఈ వారంలో ఎప్పుడో'",
+          "tldr": [
+            "కొత్త రోస్టర్ 'సమాన పంపిణీ' వాగ్దానం చేస్తోంది—గత సంవత్సరం లాగే, కొందరికి సోమవారం, మరికొందరికి శుక్రవారం.",
+            "GHMC మరియు HMWSSB జోన్ వారీ టైమింగ్స్ ప్రచురించాయి; 12 మండలాలలో భూగర్భ జలాల స్థాయి సగటు కంటే తక్కువ.",
+            "చర్య: సిటిజన్ పోర్టల్‌లో SMS అలర్ట్‌లకు నమోదు చేయండి. పీక్ వేసవిలో కనీసం 2 రోజుల నీరు నిల్వ చేయండి."
+          ],
+          "source": "https://example-news.com/te/water-schedule"
+        }
+      },
+      "civicStat": "58% households with piped supply in GHMC",
+      "popCultureRef": ""
+    },
+    {
+      "id": "agni-001",
+      "element": "Agni",
+      "category": { "en": "Economy", "te": "అర్థశాస్త్రం" },
+      "tone": "Witty",
+      "content": {
+        "en": {
+          "headline": "Petrol drops by 50 paise: Don't spend it all in one place",
+          "tldr": [
+            "Fuel prices slashed just enough to buy exactly one extra curry leaf at the market.",
+            "Global crude oil is down, but our local 'service charges' are holding the fort bravely.",
+            "Public Service: Use the savings to invest in a bicycle. It's healthier and inflation-proof."
+          ],
+          "source": "https://example-news.com/petrol-price"
+        },
+        "te": {
+          "headline": "పెట్రోల్ పై 50 పైసల భారీ ఊరట! ఏం కొనుక్కుందామో?",
+          "tldr": [
+            "పెట్రోల్ ధర తగ్గింది... ఆ మిగిలిన 50 పైసలతో మార్కెట్‌లో ఒక కరివేపాకు రెబ్బ ఎక్స్ట్రా వస్తుంది.",
+            "ప్రపంచవ్యాప్తంగా క్రూడ్ ఆయిల్ తగ్గినా, మన దగ్గర 'సర్వీస్ ఛార్జీలు' మాత్రం తగ్గనని భీష్మించుకున్నాయి.",
+            "ప్రజా ప్రయోజనం: ఈ సేవింగ్స్‌తో ఒక సైకిల్ కొనుక్కోండి. ఆరోగ్యానికి మంచిది, ధరల బాధ ఉండదు."
+          ],
+          "source": "https://example-news.com/te/petrol-price"
+        }
+      },
+      "civicStat": "State fuel tax: ₹4.02/litre",
+      "popCultureRef": ""
+    },
+    {
+      "id": "vayu-001",
+      "element": "Vayu",
+      "category": { "en": "Governance", "te": "పాలన" },
+      "tone": "Sarcastic",
+      "content": {
+        "en": {
+          "headline": "The 'Smart' Portal is officially too smart for us",
+          "tldr": [
+            "State's new 'Citizen First' app launched today with a 404 error—the ultimate privacy feature.",
+            "If your fingerprint doesn't work, the manual suggests 'trying harder' or waiting for the 2030 update.",
+            "Essential: Property tax deadlines moved to the 20th. Don't let the site crash be your excuse."
+          ],
+          "source": "https://example-news.com/govt-portal"
+        },
+        "te": {
+          "headline": "మనకంటే తెలివైన 'స్మార్ట్' పోర్టల్ వచ్చేసింది!",
+          "tldr": [
+            "రాష్ట్ర ప్రభుత్వం ప్రవేశపెట్టిన 'సిటిజన్ ఫస్ట్' యాప్... ఓపెన్ చేస్తే '404 ఎర్రర్' కనిపిస్తోంది. అది దాని స్మార్ట్ నెస్!",
+            "మీ వేలిముద్రలు పనిచేయకపోతే, 2030 అప్‌డేట్ వరకు ఆగమని యాప్ సలహా ఇస్తోంది.",
+            "ముఖ్య గమనిక: ఆస్తి పన్ను గడువు 20వ తేదీకి మారింది. సైట్ హ్యాంగ్ అయినా సరే, పెనాల్టీ మాత్రం తప్పదు."
+          ],
+          "source": "https://example-news.com/te/govt-portal"
+        }
+      },
+      "civicStat": "Property tax due by 20th every month",
+      "popCultureRef": ""
+    },
+    {
+      "id": "akasha-001",
+      "element": "Akasha",
+      "category": { "en": "Culture & Cinema", "te": "సంస్కృతి మరియు సినిమా" },
+      "tone": "Witty",
+      "content": {
+        "en": {
+          "headline": "State film awards: Best Dialogue goes to the guy who said 'We will fix the roads'",
+          "tldr": [
+            "The only script that could rival our politicians' promises is our filmmakers' dialogue—both are Oscar-worthy.",
+            "Telugu cinema dominated the regional category; 14 films from AP/TS shortlisted for national fest.",
+            "Civic: Film tourism tax waiver for shoots in heritage zones extended till Dec 2026. Apply via Film Development Corporation."
+          ],
+          "source": "https://example-news.com/film-awards"
+        },
+        "te": {
+          "headline": "రాష్ట్ర చలనచిత్ర పురస్కారాలు: 'రోడ్లు సరిచేస్తాం' అన్న వ్యక్తికి ఉత్తమ సంభాషణ",
+          "tldr": [
+            "మన రాజకీయ నాయకుల వాగ్దానాలతో పోటీ పడే ఏకైక స్క్రిప్ట్ మన చిత్రనిర్మాతల డైలాగ్—రెండూ ఒస్కార్ అర్హమైనవి.",
+            "తెలుగు సినిమా ప్రాంతీయ వర్గంలో ఆధిపత్యం; జాతీయ ఉత్సవానికి AP/TS నుండి 14 చిత్రాలు షార్ట్‌లిస్ట్.",
+            "ప్రజా: వారసత్వ జోన్‌లలో షూటింగ్‌లకు ఫిల్మ్ టూరిజం ట్యాక్స్ వైవర్ డిసెంబర్ 2026 వరకు పొడిగించారు. ఫిల్మ్ డెవలప్మెంట్ కార్పొరేషన్ ద్వారా అప్లై చేయండి."
+          ],
+          "source": "https://example-news.com/te/film-awards"
+        }
+      },
+      "civicStat": "14 films shortlisted for national fest",
+      "popCultureRef": "https://example.com/gif-placeholder"
+    }
+  ],
+  "footerNote": {
+    "en": "Did this make you think or just make you blink?",
+    "te": "ఇది మిమ్మల్ని ఆలోచింపజేసిందా? లేక కేవలం నవ్వించిందా?"
+  },
+  "nostalgia": {
+    "en": "On this day in 1956, the States Reorganisation Act came into effect; Hyderabad became the capital of Andhra Pradesh until the bifurcation in 2014.",
+    "te": "1956 ఈ రోజునే స్టేట్స్ రీఆర్గనైజేషన్ యాక్ట్ అమల్లోకి వచ్చింది; 2014 విభజన వరకు హైదరాబాద్ ఆంధ్రప్రదేశ్ రాజధానిగా ఉంది."
+  },
+  "tiffinBox": {
+    "label": {
+      "en": "Today's pick: Gongura Mutton from Amma Chethi Vanta",
+      "te": "ఈ రోజు పిక్: అమ్మ చేతి వంట నుండి గోంగూర మటన్"
+    },
+    "url": "https://www.youtube.com/@AmmaChethiVanta"
+  }
+}

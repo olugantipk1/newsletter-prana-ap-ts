@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none" stroke="#0a0a0a" stroke-width="1.5" class="min-h-[200px] w-full bg-neutral-50 dark:bg-neutral-900">
+  <rect width="400" height="300" fill="transparent"/>
+  <text x="200" y="140" text-anchor="middle" font-family="serif" font-size="14" fill="#737373">Editorial cartoon placeholder</text>
+  <text x="200" y="160" text-anchor="middle" font-family="serif" font-size="12" fill="#a3a3a3">B&amp;W " High contrast " March 14, 2026</text>
+  <circle cx="120" cy="180" r="40" stroke-dasharray="4 2"/>
+  <rect x="200" y="200" width="80" height="60" stroke-dasharray="2 2"/>
+  <path d="M300 160 L340 200 L300 240 L260 200 Z" stroke-dasharray="3 2"/>
+</svg>
