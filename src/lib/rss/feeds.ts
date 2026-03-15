@@ -6,7 +6,6 @@
 export const RSS_FEEDS = [
   { url: "https://www.greatandhra.com/feed", label: "Great Andhra" },
   { url: "https://www.gulte.com/feed", label: "Gulte" },
-  { url: "https://www.m9.news/feed", label: "M9 News" },
   { url: "https://telugu.oneindia.com/rss/feeds/oneindia-telugu-news.xml", label: "OneIndia Telugu" },
 ] as const;
 

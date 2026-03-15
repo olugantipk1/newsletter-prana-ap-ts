@@ -34,22 +34,9 @@ Open [http://localhost:3000](http://localhost:3000). Use the **refresh** button 
 
 ## Data sources
 
-- **RSS** (when `PRANA_USE_RSS=1`): Great Andhra, Gulte, M9, OneIndia Telugu. Configure in `src/lib/rss/feeds.ts`. Keywords in `ELEMENT_KEYWORDS` assign articles to Prithvi / Jala / Agni / Vayu / Akasha; default is Vayu (governance).
+- **RSS** (when `PRANA_USE_RSS=1`): Great Andhra, Gulte, OneIndia Telugu. Configure in `src/lib/rss/feeds.ts`. Keywords in `ELEMENT_KEYWORDS` assign articles to Prithvi / Jala / Agni / Vayu / Akasha; default is Vayu (governance).
 - **Mock:** Default when RSS is off or fetch fails; see `src/data/mockData.json`.
 - **Other sources** (AP GO, Telangana GOIR, YouTube) don’t expose RSS; add scrapers or APIs separately.
-
----
-
-## Repo name
-
-- **Package/repo name:** `newsletter-prana-ap-ts` (in `package.json`).
-- **Rename local folder** (optional, so it matches the repo):
-  ```bash
-  cd ..   # parent of project
-  mv <old-folder> newsletter-prana-ap-ts
-  cd newsletter-prana-ap-ts
-  ```
-- **Rename on GitHub:** If the repo already exists with another name, go to repo → Settings → General → Repository name → set to `newsletter-prana-ap-ts` → Rename.
 
 ---
 
